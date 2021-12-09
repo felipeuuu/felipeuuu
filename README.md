@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @felipeuuu
-- 👀 I’m interested in brazilian football and fashion
-- 🌱 I’m currently learning to code from scratch
+- 👀 I’m interested in futebol
+- 🌱 I’m currently learning to code
 - 💞️ I’m looking to collaborate on entry level prjects
-- 📫 How to reach me: felipe333alves@gmail.com and @felipeuuu at instagram
+- 📫 How to reach me: @felipeuuu at instagram
 
 <!---
 felipeuuu/felipeuuu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
